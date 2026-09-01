@@ -4,7 +4,7 @@ Welcome to my portfolio! I am a Chemical Engineering graduate specializing in tr
 
 ## 🔗 Contact & Professional Profiles
 - 📧 Email: peterduncan2432@gmail.com
-- 💼 LinkedIn: [://linkedin.com](www.linkedin.com/in/peter-duncan2432)
+- 💼 LinkedIn: (www.linkedin.com/in/peter-duncan2432)
 
 ---
 
