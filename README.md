@@ -4,7 +4,7 @@ Welcome to my portfolio! I am a Chemical Engineering graduate specializing in tr
 
 ## 🔗 Contact & Professional Profiles
 - 📧 Email: peterduncan2432@gmail.com
-- 💼 LinkedIn: (www.linkedin.com/in/peter-duncan2432)
+- 💼 LinkedIn: [linkedin.com/in/peter-duncan2432](https://linkedin.com)
 
 ---
 
@@ -32,3 +32,4 @@ Welcome to my portfolio! I am a Chemical Engineering graduate specializing in tr
 - **Methodologies:** Technical Documentation, Standard Operating Procedures (SOPs), Analytical Test Methods (ATMs), Document Control, Hazard Analysis, Process Safety Management (PSM).
 - **Tools & Platforms:** Markdown, Git/GitHub, Aspen Plus, Microsoft Excel, Python, Microsoft Office, Google Workspace.
 - **Engineering Core:** Mass & Energy Balances, Fluid Mechanics, Thermodynamics, Materials Engineering, Process Modeling.
+
